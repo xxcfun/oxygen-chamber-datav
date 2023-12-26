@@ -1,0 +1,1 @@
+import XxFont from './src/font.vue'export default XxFont

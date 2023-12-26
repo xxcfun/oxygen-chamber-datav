@@ -1,0 +1,1 @@
+import DataMonitor from './src/data-monitor.vue'export default DataMonitor

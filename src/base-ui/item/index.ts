@@ -1,0 +1,1 @@
+import XxItem from './src/item.vue'export default XxItem

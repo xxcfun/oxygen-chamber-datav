@@ -1,0 +1,1 @@
+import SchemeSelection from './src/scheme-selection.vue'export default SchemeSelection

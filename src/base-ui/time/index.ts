@@ -1,0 +1,1 @@
+import XxTime from './src/time.vue'export default XxTime

@@ -1,0 +1,1 @@
+import CabinTemperature from './src/cabin-temperature.vue'export default CabinTemperature
